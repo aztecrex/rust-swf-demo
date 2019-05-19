@@ -1,0 +1,8 @@
+[package]
+name = "swf-demo"
+version = "0.1.0"
+authors = ["Greg Wiley <aztec.rex@jammm.com>"]
+edition = "2018"
+
+[dependencies]
+
